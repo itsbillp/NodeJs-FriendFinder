@@ -7,7 +7,7 @@ Heroku deployment:
 
 
 
-## Web apprunning node with forms and logic
+## Web app running node with forms and logic
 
 *Based off a homework assignemnt as part of Columbia University's Full Stack Developer Bootcamp*
 
